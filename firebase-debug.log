@@ -1,0 +1,14 @@
+[debug] [2023-05-16T19:16:32.679Z] ----------------------------------------------------------------------
+[debug] [2023-05-16T19:16:32.700Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Walton\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js deploy
+[debug] [2023-05-16T19:16:32.701Z] CLI Version:   11.29.1
+[debug] [2023-05-16T19:16:32.701Z] Platform:      win32
+[debug] [2023-05-16T19:16:32.702Z] Node Version:  v18.13.0
+[debug] [2023-05-16T19:16:33.039Z] Time:          Wed May 17 2023 01:16:32 GMT+0600 (Bangladesh Standard Time)
+[debug] [2023-05-16T19:16:33.040Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-05-16T19:16:38.932Z] Error: Timed out.
+    at Timeout._onTimeout (C:\Users\Walton\AppData\Roaming\npm\node_modules\firebase-tools\lib\utils.js:253:49)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+[error] 
+[error] Error: An unexpected error has occurred.
